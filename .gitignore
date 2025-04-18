@@ -1,0 +1,43 @@
+# 🧠 Your custom .gitignore
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+env/
+venv/
+.ai/
+ai/
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore media and large files
+marketmind.mp4
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+logs/
+
+# Optional: Ignore coverage and test files
+.coverage
+htmlcov/
+coverage.xml
+pytest_cache/
+
+# Optional: Ignore build outputs
+dist/
+build/
+*.egg-info/

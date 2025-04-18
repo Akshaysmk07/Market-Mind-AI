@@ -1,0 +1,13 @@
+streamlit
+groq
+langchain
+langchain-groq
+firecrawl
+beautifulsoup4
+requests
+markdown
+pytrends
+praw
+pydantic
+pandas
+google-search-results
