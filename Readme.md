@@ -154,4 +154,4 @@ Reports are available in two formats:
 ---
 
 Created with ❤️ by Akshay Kumar
-For questions or support, contact: your.email@example.com
+For questions or support, contact: akshaykumar.smk7@gmail.com
