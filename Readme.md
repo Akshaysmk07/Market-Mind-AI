@@ -2,6 +2,8 @@
 
 ![MarketMind Demo](assets/marketmind.gif)
 
+🚀 **Live Demo:** [MarketMind AI](https://market-mind-ai-1.onrender.com) – Explore the deployed application
+
 ## Project Overview
 The Local Market Research Assistant is a powerful AI-driven tool that provides location-specific market research for business ideas. It leverages Groq's advanced language models combined with real web data from SerpAPI to deliver comprehensive, actionable market intelligence that would traditionally require hours of manual research.
 
