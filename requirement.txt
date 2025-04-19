@@ -11,3 +11,4 @@ praw
 pydantic
 pandas
 google-search-results
+dotenv 
